@@ -1,4 +1,4 @@
-# testapp
+# Brew App
 
 A new Flutter project.
 
